@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  systolic: 1.5
+  diastolic: 1.5
+  patient_id: one
+
+two:
+  systolic: 1.5
+  diastolic: 1.5
+  patient_id: two
