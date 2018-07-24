@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  before: 1.5
+  after: 1.5
+  fasting: 1.5
+  hba1c: 1.5
+  patient_id: 
+
+two:
+  before: 1.5
+  after: 1.5
+  fasting: 1.5
+  hba1c: 1.5
+  patient_id: 
