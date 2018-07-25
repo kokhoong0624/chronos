@@ -1,21 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  age: 
   height: 1.5
   weight: 1.5
-  phone: MyString
-  obesity_id: 
-  high_blood_pressure_id: 
-  diabetes_id: 
+  blood_type: MyString
 
 two:
-  name: MyString
-  age: 
   height: 1.5
   weight: 1.5
-  phone: MyString
-  obesity_id: 
-  high_blood_pressure_id: 
-  diabetes_id: 
+  blood_type: MyString

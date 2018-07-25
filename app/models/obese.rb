@@ -1,3 +1,3 @@
 class Obese < ApplicationRecord
-	has_many :patients
+	belongs_to :health_record
 end
